@@ -15,9 +15,6 @@ React - Vite - Tailwind - react-icons.
 ```bash
 git clone https://github.com/ErfanBagheri404/elegant-react.git
 cd elegant-react
-```
-
-```bash
 npm install
 npm run dev
 ```
